@@ -1,1 +1,9 @@
+Ich screibe etwas
 bitte arbeit github, ich weiss dass ich habe eine fehler gemacht, aber es sollte arbeit jetzt, und ich sollte mehr lernen
+
+¿Por qué
+es importante tener cuidado con modificar dos archivos al mismo tiempo?
+Por que se puede eliminar el trabajo de un compañero o alguna funcion importante para el codigo, debe procurarse 
+que el archivo quede con el código mas consistente, simpe, y fluido posible. 
+
+También hay que acordar muy bien que parte debe configurar cada uno 
